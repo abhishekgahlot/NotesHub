@@ -1,0 +1,9 @@
+site_name: NotesHub
+nav:
+    - Home: index.md
+    - Saturday, 1 June 2019: Saturday, 1 June 2019.md
+    - Friday, 31 May 2019: Friday, 31 May 2019.md
+theme:
+  name: 'material'
+  logo:
+    icon: 'book'
